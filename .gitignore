@@ -1,0 +1,32 @@
+# OS and editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
+
+# Python and scripting
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Backup or captured data
+*.pcap
+*.pcapng
+*.log
+*.dump
+
+# Credentials (NEVER commit these!)
+*.key
+*.crt
+*.pem
+*.env
+
+# Misc
+.envrc
+.vscode/
+.idea/
+
